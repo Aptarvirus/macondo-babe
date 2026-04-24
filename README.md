@@ -4,5 +4,5 @@ This is a simple web site mad with HTML and CSS.
 clone the repository or just click on the demo link 
 https://macondo-babe.netlify.app/ 
 #features
-I have ued the .art and external linking
+I have used the .art and external linking
 
