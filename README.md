@@ -6,3 +6,4 @@ https://macondo-babe.netlify.app/
 #features
 I have used the .art and external linking
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a34a03f1-d354-404c-b998-6e81a1525bdd" />
