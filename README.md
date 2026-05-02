@@ -4,7 +4,7 @@ This is a simple web site mad with HTML and CSS.
 #TO RUN IT
 
 clone the repository or just click on the demo link 
-[https://macondo-babe.netlify.app/ ](https://extraordinary-gingersnap-46d515.netlify.app/#HOME)
+https://extraordinary-gingersnap-46d515.netlify.app/#HOME
 #features
 linking
   external and internal
